@@ -3,8 +3,11 @@
 
 ## [Unreleased]
 
+### Changed
+- Added release dates to the changelog.
 
-## [1.0.2]
+
+## [1.0.2] - 2017-07-31
 
 ### Added
 - Code of Conduct
@@ -14,13 +17,13 @@
 - Changelog
 
 
-## [1.0.1]
+## [1.0.1] - 2017-07-31
 
 ### Changed
 - GitHub repo location (in site footer)
 
 
-## [1.0.0]
+## [1.0.0] - 2017-04-8
 
 ### Added
 - Original site files, for deployment on GitHub Pages
