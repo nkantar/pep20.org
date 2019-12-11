@@ -1,16 +1,20 @@
 # pep20.org Changelog
 
 
-## [Unreleased]
+## [1.0.4] - 2019-12-10
+
+### Added
+- List item targeting
 
 ### Changed
-- Added release dates to the changelog.
-- Added reference to the Code of Conduct to the README.
+- Prettier-ified index.html
 
 
 ## [1.0.3] - 2019-12-09
 
 ### Changed
+- Added release dates to the changelog.
+- Added reference to the Code of Conduct to the README.
 - List from ordered to unordered
 
 
@@ -36,7 +40,8 @@
 - Original site files, for deployment on GitHub Pages
 
 
-[Unreleased]: https://github.com/nkantar/pep20.org/compare/1.0.3...HEAD
+[Unreleased]: https://github.com/nkantar/pep20.org/compare/1.0.4...HEAD
+[1.0.4]: https://github.com/nkantar/pep20.org/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/nkantar/pep20.org/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/nkantar/pep20.org/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/nkantar/pep20.org/compare/1.0.0...1.0.1
