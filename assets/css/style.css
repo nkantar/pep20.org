@@ -36,6 +36,10 @@ h1 a:active {
   text-decoration: none;
 }
 
+li:target {
+  background: #FFD43B;
+}
+
 hr {
   margin: 25px 0;
   height: 1px;
