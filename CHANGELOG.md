@@ -17,6 +17,7 @@
 
 ### Changed
 - HTML entities into actual characters in source
+- Punctuation to match `import this`: `—` became `--` to match the original
 
 ### Fixed
 - Typo introduced in the previous release
