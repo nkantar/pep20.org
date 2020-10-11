@@ -12,6 +12,9 @@
 
 ## [Unreleased]
 
+### Added
+- Byline subheader
+
 ### Changed
 - HTML entities into actual characters in source
 
