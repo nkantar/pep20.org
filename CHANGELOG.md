@@ -5,6 +5,9 @@
 ### Added
 - Anchors to list items
 
+### Changed
+- Targeted list item text to bold
+
 
 ## [1.0.4] - 2019-12-10
 

@@ -38,6 +38,7 @@ h1 a:active {
 
 li:target {
   background: #FFD43B;
+  font-weight: bold;
 }
 
 hr {
