@@ -12,6 +12,9 @@
 
 ## [Unreleased]
 
+
+## [1.1.1] - 2020-10-10
+
 ### Added
 - Byline subheader
 
@@ -73,7 +76,8 @@
 - Original site files, for deployment on GitHub Pages
 
 
-[Unreleased]: https://github.com/nkantar/pep20.org/compare/1.1.0...HEAD
+[Unreleased]: https://github.com/nkantar/pep20.org/compare/1.1.1...HEAD
+[1.1.1]: https://github.com/nkantar/pep20.org/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/nkantar/pep20.org/compare/1.0.4...1.1.0
 [1.0.4]: https://github.com/nkantar/pep20.org/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/nkantar/pep20.org/compare/1.0.2...1.0.3
