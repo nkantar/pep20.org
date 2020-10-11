@@ -1,5 +1,10 @@
 # pep20.org Changelog
 
+## [Unreleased]
+
+### Added
+- Anchors to list items
+
 
 ## [1.0.4] - 2019-12-10
 
