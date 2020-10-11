@@ -12,6 +12,9 @@
 
 ## [Unreleased]
 
+### Changed
+- HTML entities into actual characters in source
+
 
 ## [1.1.0] - 2020-10-10
 
