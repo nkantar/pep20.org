@@ -1,14 +1,14 @@
 /*
 dark blue: 306998
-light blue: 5A9FD4
-dark yellow: FFD43B
-light yellow: FFE873
-white: FFFFFF
+light blue: 5a9fd4
+dark yellow: ffd43b
+light yellow: ffe873
+white: ffffff
 gray: 444444
 */
 
 body {
-  font-family: 'Fira Code';
+  font-family: "Fira Code";
   margin: 25px auto;
   padding: 25px;
   max-width: 555px;
@@ -23,7 +23,7 @@ a {
 a:hover,
 a:active {
   background: #306998;
-  color: #FFFFFF;
+  color: #ffffff;
   padding: 2px 0 0;
   text-decoration: none;
 }
@@ -37,7 +37,7 @@ h1 a:active {
 }
 
 li:target {
-  background: #FFD43B;
+  background: #ffd43b;
   font-weight: bold;
 }
 
@@ -45,5 +45,5 @@ hr {
   margin: 25px 0;
   height: 1px;
   border: none;
-  background: #FFD43B;
+  background: #ffd43b;
 }

@@ -7,6 +7,7 @@
 
 ### Changed
 - Targeted list item text to bold
+- Prettier-ified style.css
 
 
 ## [1.0.4] - 2019-12-10
