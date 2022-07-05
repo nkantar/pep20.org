@@ -3,16 +3,15 @@ PEP 20 ~ The Zen of Python
 
 Issues and pull requests very much accepted!
 
+
 Developing
 ----------
 
 .. code-block:: sh
 
-    # Python 3
-    python -m http.server 8000 index.html
+    python3 -m http.server 8000 index.html
 
-    # Python 2
-    python -m SimpleHTTPServer 8000 index.html
+Then go to `http://localhost:8000 <http://localhost:8000>`_ to see your changes as you make them.
 
 
 Contributing
