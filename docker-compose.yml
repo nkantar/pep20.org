@@ -1,0 +1,23 @@
+version: "3"
+
+services:
+  pep20:
+    build:
+      context: .
+    container_name: pep20
+    environment:
+      - USER_UID=1000
+      - USER_GID=1000
+    restart: always
+    ports:
+      - "9080:9080"
+    volumes:
+      - $PWD/Caddyfile:/etc/caddy/Caddyfile
+      - pep20_data:/data
+      - pep20_config:/config
+
+volumes:
+  pep20_data:
+    external: false
+  pep20_config:
+    external: false
