@@ -12,6 +12,9 @@
 
 ## [Unreleased]
 
+### Removed
+- Old deployment files
+
 
 ## [1.1.2] - 2021-02-26
 
