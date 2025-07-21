@@ -12,11 +12,15 @@
 
 ## [Unreleased]
 
+
+## [25.7.20] - 2025-07-20
+
 ### Added
 - `Dockerfile` and `Caddyfile` for deployment on Coolify
 
 ### Changed
 - File structure, with site content moving into `src/`
+- Versioning scheme to [CalVer](https://calver.org/) (`YY.MM.DD[.MICRO]`)
 
 ### Removed
 - Old deployment files
@@ -94,7 +98,8 @@
 - Original site files, for deployment on GitHub Pages
 
 
-[Unreleased]: https://github.com/nkantar/pep20.org/compare/1.1.2...HEAD
+[Unreleased]: https://github.com/nkantar/pep20.org/compare/25.7.20...HEAD
+[25.7.20]: https://github.com/nkantar/pep20.org/compare/1.1.2...25.7.20
 [1.1.2]: https://github.com/nkantar/pep20.org/compare/1.1.1...1.1.2
 [1.1.1]: https://github.com/nkantar/pep20.org/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/nkantar/pep20.org/compare/1.0.4...1.1.0
