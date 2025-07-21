@@ -9,7 +9,7 @@ Developing
 
 .. code-block:: sh
 
-    python3 -m http.server 8000 index.html
+    python3 -m http.server 8000 -d src
 
 Then go to `http://localhost:8000 <http://localhost:8000>`_ to see your changes as you make them.
 

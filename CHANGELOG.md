@@ -12,6 +12,9 @@
 
 ## [Unreleased]
 
+### Changed
+- File structure, with site content moving into `src/`
+
 ### Removed
 - Old deployment files
 
