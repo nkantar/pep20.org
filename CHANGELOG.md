@@ -12,6 +12,9 @@
 
 ## [Unreleased]
 
+### Added
+- `Dockerfile` and `Caddyfile` for deployment on Coolify
+
 ### Changed
 - File structure, with site content moving into `src/`
 
