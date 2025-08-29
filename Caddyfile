@@ -12,6 +12,7 @@ www.pep20.org:443 {
         rewrite /js/script.js /js/script.js
         reverse_proxy https://plausible.io {
             header_up Host {http.reverse_proxy.upstream.hostport}
+            header_up X-Forwarded-For {http.request.header.X-Forwarded-For}
             transport http {
                 tls
             }
